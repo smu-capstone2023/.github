@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sangmyung Univ. Community 👋
 
 <!--
 
