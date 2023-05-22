@@ -1,15 +1,14 @@
 ## Sangmyung Univ. Community 👋
 상명대학교 자체 커뮤니티 SMUS
 
-https://smus.co.kr/
+🌈**HOMPAGE** https://smus.co.kr/
 
 ![수뭉이-뱃지2](https://github.com/smu-capstone2023/.github/assets/55094745/ce7c1b5b-4367-4713-99e2-3de51bac6cbb)
 
 
+<br/>
 
-
-
-## Contributor
+## 🧙 Contributor
 <table>
   <tbody>
     <tr>
@@ -23,7 +22,33 @@ https://smus.co.kr/
     </tr>
   </tbody>
 </table>
+<br/>
+
+## 👩‍💻 Tech Stack
+### FE
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</div>
+
+### BE
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<br/>
+
+
+## Version
+<table>
+  <tbody>
+    <tr>
+      <td ><b>ver1.0</b></td>
+      <td >베타 커뮤니티 오픈</td>
+      <td > <b>👋CURRENT!</b> </td>
+  </tbody>
+</table>
 <!--
+
+
+
 
 **Here are some ideas to get you started:**
 
