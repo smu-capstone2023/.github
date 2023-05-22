@@ -1,4 +1,13 @@
 ## Sangmyung Univ. Community 👋
+상명대학교 자체 커뮤니티 SMUS
+
+https://smus.co.kr/
+
+![수뭉이-뱃지2](https://github.com/smu-capstone2023/.github/assets/55094745/ce7c1b5b-4367-4713-99e2-3de51bac6cbb)
+
+
+
+
 
 ## Contributor
 <table>
