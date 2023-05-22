@@ -1,5 +1,19 @@
 ## Sangmyung Univ. Community 👋
 
+## Contributor
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/minjumost"><img src="https://avatars.githubusercontent.com/u/95904729?v=4" width="100px;" alt=""/><br /><sub><b>팀장 | BE : 최민주 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/newoldname"><img src="https://avatars.githubusercontent.com/u/58821252?v=4" width="100px;" alt=""/><br /><sub><b>BE : 김유정 </b></sub></a><br /></td>
+     <tr/>
+      <td align="center"><a href="https://github.com/sunjungAn"><img src="https://avatars.githubusercontent.com/u/55094745?v=4" width="100px;" alt=""/><br /><sub><b>FE | Design : 안선정 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/daindaind"><img src="https://avatars.githubusercontent.com/u/104924817?v=4" width="100px;" alt=""/><br /><sub><b>FE : 차다인 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Hyun642"><img src="https://avatars.githubusercontent.com/u/105111234?v=4" width="100px;" alt=""/><br /><sub><b>FE : 장현 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Seyounie"><img src="https://avatars.githubusercontent.com/u/87270688?v=4" width="100px;" alt=""/><br /><sub><b>FE : 박세영 </b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 <!--
 
 **Here are some ideas to get you started:**
