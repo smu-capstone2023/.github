@@ -42,8 +42,15 @@
     <tr>
       <td ><b>beta</b></td>
       <td >베타 커뮤니티 오픈</td>
-      <td > <b>👋CURRENT!</b> </td>
+      <td > <b></b> </td>
       <td> https://github.com/smu-capstone2023/fe-react-deploy/tree/beta-06-24 </td>
+    </tr>
+    <tr>
+      <td ><b>ver 1.0.0</b></td>
+      <td >정식 커뮤니티 오픈</td>
+      <td > <b>👋CURRENT!</b> </td>
+      <td> https://github.com/smu-capstone2023/fe-react-deploy/tree/main </td>
+    </tr>
   </tbody>
 </table>
 <!--
