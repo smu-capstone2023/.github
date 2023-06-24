@@ -40,9 +40,10 @@
 <table>
   <tbody>
     <tr>
-      <td ><b>ver1.0</b></td>
+      <td ><b>beta</b></td>
       <td >베타 커뮤니티 오픈</td>
       <td > <b>👋CURRENT!</b> </td>
+      <td> https://github.com/smu-capstone2023/fe-react-deploy/tree/beta-06-24 </td>
   </tbody>
 </table>
 <!--
