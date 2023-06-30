@@ -49,7 +49,7 @@
       <td ><b>ver 1.0.0</b></td>
       <td >정식 커뮤니티 오픈</td>
       <td > <b>👋CURRENT!</b> </td>
-      <td> https://github.com/smu-capstone2023/fe-react-deploy/tree/main </td>
+      <td> https://github.com/smu-capstone2023/fe-react-deploy/tree/ver1.0.0 </td>
     </tr>
   </tbody>
 </table>
